@@ -1,0 +1,9 @@
+{
+    "id": "auto-rename-canvas-images",
+    "name": "Auto Rename Canvas Images",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "自动根据图片在画布中的相对位置重命名",
+    "author": "BAMBOO4",
+    "isDesktopOnly": false
+}
